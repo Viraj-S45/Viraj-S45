@@ -12,9 +12,6 @@ I'm currently working on Programming Language Java.<br>I'm looking to collaborat
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Viraj-S45&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-S45&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Viraj-S45&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
