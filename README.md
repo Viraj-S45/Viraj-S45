@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Hi there! ** <br><br>I'm Viraj, a programmer on a mission to conquer C++ and Data Structures.  This passion fuels [your website name] (https://virajs.top), a website dedicated to sharing well-explained code snippets and learning resources for anyone on the same journey.
+Hi there! <br><br>I'm Viraj, a programmer on a mission to conquer C++ and Data Structures.  This passion fuels [your website name] (https://virajs.top), a website dedicated to sharing well-explained code snippets and learning resources for anyone on the same journey.
 
 
 ## 🌐 Socials:
