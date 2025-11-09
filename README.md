@@ -1,12 +1,8 @@
-# 💫 About Me:
-Hi there! <br><br>I'm Viraj, a programmer on a mission to conquer C++ and Data Structures.  This passion fuels [Code Dumps](https://virajs.top), a website dedicated to sharing well-explained code snippets and learning resources for anyone on the same journey.
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QvMRGZd34C) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viraj-shirodkar/) 
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viraj-shirodkar/) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-S45&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -18,3 +14,4 @@ Hi there! <br><br>I'm Viraj, a programmer on a mission to conquer C++ and Data S
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
