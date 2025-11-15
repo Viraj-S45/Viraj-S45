@@ -1,17 +1,29 @@
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viraj-shirodkar/) 
+Main Github Acc: [viraj-sh](https://github.com/viraj-sh)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-S45&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/viraj.sn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viraj-shirodkar)
+
+## GitHub Stats: Viraj-S45
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-S45&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Viraj-S45&show_icons=true&theme=dark&locale=en" alt="Viraj-S45" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Viraj-S45&theme=dark" alt="Viraj-S45" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Viraj-S45&icon=2&color=0)](https://visitcount.itsvg.in)
+<!--
+## Main GitHub Stats: viraj-sh
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/virajshirog) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/virajs18) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-sh&show_icons=true&theme=dark&locale=en" alt="viraj-sh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-sh&theme=dark" alt="viraj-sh" /></p>
+-->
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
