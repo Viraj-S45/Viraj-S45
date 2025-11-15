@@ -6,9 +6,9 @@ Main Github Acc: [viraj-sh](https://github.com/viraj-sh)
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-S45&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="120" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Viraj-S45&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="120" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viraj-S45&theme=dark" alt="Streak Stats" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-S45&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viraj-S45&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viraj-S45&theme=dark" alt="Streak Stats" height="165" />
 </div>
 
 
@@ -33,6 +33,7 @@ Main Github Acc: [viraj-sh](https://github.com/viraj-sh)
 -->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
